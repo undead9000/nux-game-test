@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+    min-height: inherit;
+    padding: 16px 0;
+    font-weight: normal;
+}
